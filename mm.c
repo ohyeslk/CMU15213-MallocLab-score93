@@ -1,6 +1,4 @@
 /* 
- * Andrew ID : himanshp
- * Name : Himanshu Pandey
  * mm.c
  *
  * Algorithm: I have created segregated list, stored on heap, to keep track
